@@ -19,4 +19,6 @@ void loop() {
   last = read1;
   Serial.println(pos);
   delay(100);
+  
+  nkbfejiafjkfba~jkfbakñdb
 }
